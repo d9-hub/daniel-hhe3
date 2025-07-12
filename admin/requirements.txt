@@ -1,0 +1,9 @@
+streamlit
+requests
+pandas
+folium
+streamlit-folium
+firebase-admin
+google-auth
+google-auth-oauthlib
+google-cloud-firestore
